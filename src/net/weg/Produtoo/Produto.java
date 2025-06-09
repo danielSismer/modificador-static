@@ -5,7 +5,7 @@ public class Produto {
     double preco;
 
     public static void mostrarPreco() {
-       // System.out.println(preco);
+        System.out.println(preco);
     }
 }
 
