@@ -4,7 +4,7 @@ public class Teste {
     int numero = 5; // variável de instância.
 
     public static void imprimirNumero() { // método estático
-       // System.out.println(numero); // Erro: não é possível acessar variável de instância 'numero' a partir do método static
+       System.out.println(numero); // Erro: não é possível acessar variável de instância 'numero' a partir do método static
     }
 }
 
