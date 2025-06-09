@@ -4,7 +4,7 @@ public class ClasseA {
     int valor = 100;
 
     public static void mostrarValor() {
-       // System.out.println(valor);
+       System.out.println(valor);
     }
 }
 
